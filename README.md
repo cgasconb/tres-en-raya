@@ -43,4 +43,4 @@ Este proyecto está licenciado bajo los términos de la licencia MIT. Ver el arc
 
 ## Autor
 
-- Tu Nombre (@cgasconb)
+- @cgasconb
