@@ -2,6 +2,8 @@
 
 Este es un simple juego de Tres en Raya desarrollado con C++ y QML utilizando Qt y CMake. Permite a dos jugadores competir turnándose para colocar su símbolo (X o O) en un tablero de 3x3.
 
+![Game Image](img/game.png)
+
 ## Características
 
 - Interfaz gráfica moderna con QML.
@@ -11,7 +13,7 @@ Este es un simple juego de Tres en Raya desarrollado con C++ y QML utilizando Qt
 
 ## Requisitos
 
-- Qt 5 o superior con soporte para QML.
+- Qt 6 o superior con soporte para QML.
 - CMake 3.10 o superior.
 - Un compilador C++ compatible (como GCC o MSVC).
 
@@ -43,4 +45,6 @@ Este proyecto está licenciado bajo los términos de la licencia MIT. Ver el arc
 
 ## Autor
 
-- @cgasconb
+<a href="https://github.com/cgasconb/">
+  <img src="https://contrib.rocks/image?repo=cgasconb/tres-en-raya" alt="contrib.rocks image" />
+</a>
